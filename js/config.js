@@ -10,7 +10,7 @@
  */
 window.SITE_CONFIG = {
   brandName: "AgriVista Consulting",
-  consultantName: "Your Name",
+  consultantName: "Aviprit Vinod Ubarhande",
 
   // Main Calendly booking link
   CALENDLY_URL: "https://calendly.com/your-calendly-username",
