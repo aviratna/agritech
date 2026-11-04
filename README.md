@@ -1,5 +1,7 @@
 # AgriVista Consulting — Website
 
+**Live site:** https://aviratna.github.io/agritech/
+
 A static website for an agriculture consultancy that serves India and clients worldwide. It covers farm consultation, agro eco-tourism and medicinal plants, and has online booking through **Calendly**.
 
 ## Pages
