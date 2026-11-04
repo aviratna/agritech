@@ -24,8 +24,8 @@ window.SITE_CONFIG = {
     "discovery":  ""   // e.g. "https://calendly.com/your-username/30min"
   },
 
-  email: "hello@example.com",
-  phone: "+91 00000 00000",
-  whatsapp: "910000000000", // digits only, with country code
+  email: "pathoavi84@gmail.com",
+  phone: "+91 72186 43415",
+  whatsapp: "917218643415", // digits only, with country code
   location: "India · Serving clients worldwide"
 };
