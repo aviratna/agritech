@@ -13,7 +13,7 @@ window.SITE_CONFIG = {
   consultantName: "Aviprit Vinod Ubarhande",
 
   // Main Calendly booking link
-  CALENDLY_URL: "https://calendly.com/your-calendly-username",
+  CALENDLY_URL: "https://calendly.com/pathoavi84",
 
   // Optional: one Calendly event type per service
   serviceLinks: {
